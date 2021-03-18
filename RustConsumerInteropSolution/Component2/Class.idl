@@ -1,0 +1,9 @@
+namespace Component2
+{
+    [default_interface]
+    runtimeclass Class2
+    {
+        Class2();
+        Int32 MyProperty2;
+    }
+}
