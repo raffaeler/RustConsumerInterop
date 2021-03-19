@@ -4,6 +4,10 @@ use bindings::{
 };
 
 
+/*
+Another useful example:
+https://github.com/kennykerr/multiple-components
+*/
 
 fn main() -> windows::Result<()> {
     let c1 = Class1::new()?;
