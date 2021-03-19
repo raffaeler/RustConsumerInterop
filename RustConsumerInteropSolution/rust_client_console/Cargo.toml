@@ -1,5 +1,5 @@
 [package]
-name = "RustClientConsole"
+name = "rust_client_console"
 version = "0.1.0"
 authors = ["Raf <raffaeler@vevy.com>"]
 edition = "2018"
