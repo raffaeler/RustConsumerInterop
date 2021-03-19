@@ -375,9 +375,9 @@ checksum = "712e227841d057c1ee1cd2fb22fa7e5a5461ae8e48fa2ca79ec42cfc1931183f"
 
 [[package]]
 name = "windows"
-version = "0.4.0"
+version = "0.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "015de964f21e0b20b9744ebc6f3a3e4dfdd1788f133a4aeec09c035748f88a21"
+checksum = "91294bf1e3791f04e442c6d57ea2c118e21ca5b0953f9465fdc8c33046f5b5c9"
 dependencies = [
  "const-sha1",
  "windows_gen",
@@ -386,9 +386,9 @@ dependencies = [
 
 [[package]]
 name = "windows_gen"
-version = "0.4.0"
+version = "0.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "70028758c92f5ed61ce12ab8e7482dce152418bac41dbefe794511b9fb673022"
+checksum = "334e75d3c85c56ebb36e44efabd8f0da3c0b379ad2af9691aca5a1ad1ff202e8"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -399,9 +399,9 @@ dependencies = [
 
 [[package]]
 name = "windows_gen_macros"
-version = "0.4.0"
+version = "0.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1a4e4aa3c108fc3112bb797662b14958d088d3b989f2560d89335775c566c88d"
+checksum = "a97c77daa4275ca227bd89ea62adaa430f1e7281c1d35419bafe9e5f9ca69052"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -410,9 +410,9 @@ dependencies = [
 
 [[package]]
 name = "windows_macros"
-version = "0.4.0"
+version = "0.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "87e5b872245607ec18bf35eaa7a6146831c07449c0b724afd7403d732c6da856"
+checksum = "8411774b50e671ab93d4579f74d966059a32fc749295659b0946e09ae3869726"
 dependencies = [
  "proc-macro2",
  "quote",
